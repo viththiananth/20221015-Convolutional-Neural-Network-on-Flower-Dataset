@@ -1,4 +1,4 @@
-### 20221015-Convolutional-Neural-Network-on-Flower-Dataset
+### Convolutional-Neural-Network-on-Flower-Dataset
 
 Build, Train and Optimize Convolutional Neural Network to Detect the Flower Name by Processing the Input Flower Image
 
