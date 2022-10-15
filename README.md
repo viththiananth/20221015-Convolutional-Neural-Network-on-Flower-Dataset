@@ -3,8 +3,8 @@
 Build, Train and Optimize Convolutional Neural Network to Detect the Flower Name by Processing the Input Flower Image
 
 
-Install tensorflow and keras on Google Colab notebook
-Load flower image dataset having 6 different flowers images.
+> Install tensorflow and keras on Google Colab notebook
+> Load flower image dataset having 6 different flowers images.
 Use matplotlib to print the random images from the dataset along with their names as labels.
 Encode the categorical data and perform pixel scaling on the input images to reduce the size of the input data.
 Perform Test-Train split.
